@@ -3,6 +3,10 @@
 ## 사전 학습
 [이미지 인식](https://youtu.be/fomZdMWF0W0?feature=shared)
 
+**공지** 
+1) 사전학습 말미에서 언급하는 사전학습후 제출과제는 제출하지 않는 것으로 변경됨. 본선은 선착순으로 20팀이 참가하는 것으로 수정되었음.
+2) 본선 준비용 이미지는 8개 이미지 모두 공개되었음.
+
 [본선 준비용 강좌](https://youtu.be/MVNxox1S6pI)
 
 [Stable Diffustion 1](https://youtu.be/1WhXhnjXap8)
