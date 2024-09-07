@@ -20,6 +20,10 @@
 ## 예선 학습용 데이터 파일
 [데이터 다운로드](https://drive.google.com/file/d/1hdAZOkMQq-1fZBh-VsxZNYim1XERT8AD/view?usp=sharing)
 
+## 본선용 프로그램
+
+drone.zip
+
 ## 본선용 이미지
 
 위 파일 목록의 본선img.zip
