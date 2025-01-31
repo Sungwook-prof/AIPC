@@ -14,6 +14,8 @@
 
 [Power BI Install](https://www.microsoft.com/ko-kr/power-platform/products/power-bi/downloads?msockid=34a2a30a621a61db3d24b7ca63d360b2)
 
+[Power BI 사용 데이터](https://drive.google.com/file/d/1CTm9Y8xgPUlRuolBjLbZXE8PRFS4KS3O/view?usp=sharing)
+
 **공지** 
 1) 사전학습 말미에서 언급하는 사전학습후 제출과제는 제출하지 않는 것으로 변경됨. 
 2) 본선 준비용 이미지는 8개 이미지는 대회 당일 공개함.
