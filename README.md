@@ -3,10 +3,16 @@
 ## 사전 학습
 [이미지 인식](https://youtu.be/fomZdMWF0W0?feature=shared)
 
+## Power BI
 [PowerBI 1](https://youtu.be/lNBJRlk-LkE)
+
 [PowerBI Query 1](https://youtu.be/TsOXj3_lMCs)
+
 [PowerBI Query 2](https://youtu.be/1FtK97wigDI)
+
 [PowerBI Query 3](https://youtu.be/XunfmdZtdY4)
+
+[Power BI Install](https://www.microsoft.com/ko-kr/power-platform/products/power-bi/downloads?msockid=34a2a30a621a61db3d24b7ca63d360b2)
 
 **공지** 
 1) 사전학습 말미에서 언급하는 사전학습후 제출과제는 제출하지 않는 것으로 변경됨. 
